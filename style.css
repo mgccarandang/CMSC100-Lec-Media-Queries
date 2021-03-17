@@ -1,0 +1,42 @@
+@media screen and (min-width: 960px) {
+  .col {
+    width: 25%;
+    float: left;
+    text-align: center;
+  }
+}
+
+@media screen and (min-width: 600px) {
+  .col {
+    width: 50%;
+    float: left;
+    text-align: center;
+  }
+}
+
+@media screen and (max-width: 599px) {
+  .col {
+    width: 100%;
+    float: left;
+    text-align: center;
+  }
+}
+
+
+
+#red {
+  background-color: red;
+}
+
+#green {
+  background-color: green;
+}
+
+#blue {
+  background-color: blue;
+}
+
+#yellow {
+  background-color: yellow;
+}
+
